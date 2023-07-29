@@ -14,7 +14,7 @@
 
 Visit at: **[shop.sithec.com.mx/landing](https://shop.sithec.com.mx/landing)**
 
-this is an update of the e-commerce [shop.sithec.com.mx](https://shop.sithec.com.mx/landing) that I built based on the new design provided by the company while I was working at Sithec.
+This project is a system update of the e-commerce [shop.sithec.com.mx](https://shop.sithec.com.mx) that I built while I was working at Sithec company.
 
 Project type: **client**
 
